@@ -1,16 +1,2 @@
 #ignored fields
-git commit -m "message"
-git checkout -b branch_name
-git branch -a
-git checkout master
-git branch -a
-git status
-git add file name
-git add . -add all files at a time
-git push --set-upstream origin branch_name
-git merge branch_name
-git push
-git pull
-git stash     - save changes to my file
-git stash pop     -applying saved changes to your file
-git ignore    -
+commands.txt
